@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicApp.Entities", "MusicApp.Entities\MusicApp.Entities.csproj", "{02EE49A3-A0A8-4B8C-99E9-FFAAEC9C7237}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicApp.WebApi", "MusicApp.WebApi\MusicApp.WebApi.csproj", "{2F220995-B924-42E9-98E6-BF45C0FEFF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02EE49A3-A0A8-4B8C-99E9-FFAAEC9C7237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EE49A3-A0A8-4B8C-99E9-FFAAEC9C7237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EE49A3-A0A8-4B8C-99E9-FFAAEC9C7237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EE49A3-A0A8-4B8C-99E9-FFAAEC9C7237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F220995-B924-42E9-98E6-BF45C0FEFF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F220995-B924-42E9-98E6-BF45C0FEFF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F220995-B924-42E9-98E6-BF45C0FEFF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F220995-B924-42E9-98E6-BF45C0FEFF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64938C84-D2FD-4DA2-8376-E19FF9DC0509}
+	EndGlobalSection
+EndGlobal
